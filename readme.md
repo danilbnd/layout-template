@@ -2,7 +2,7 @@
 
 **Please open all issues with this template on the main [Bootstrap Git](https://github.com/danilbnd/layout-templete) repo.**
 
-This is the official ZURB Template for use with [Boostrap for Sites](https://v5.getbootstrap.com/). 
+This is the official Bootstrap Template for use with [Boostrap for Sites](https://v5.getbootstrap.com/). 
 
 - Handlebars HTML templates with Panini
 - Sass compilation and prefixing
