@@ -1,16 +1,15 @@
 {
-  "name": "foundation-zurb-template",
+  "name": "bootstrap-template",
   "version": "1.0.0",
-  "description": "Official ZURB Template for Foundation for Sites.",
+  "description": "Official Template for Bootstrap for Sites.",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",
     "build": "gulp build --production"
   },
-  "author": "ZURB <foundation@zurb.com>",
+  "author": "DANIL <danilbnd95@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "foundation-sites": "^6.5.1",
     "jquery": "^3.2.1",
     "motion-ui": "^2.0.3",
     "slick-carousel": "^1.8.1",
@@ -48,11 +47,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zurb/foundation-zurb-template.git"
+    "url": "https://https://github.com/danilbnd/layout-templete"
   },
   "bugs": {
-    "url": "https://github.com/zurb/foundation-sites/issues",
-    "email": "foundation@zurb.com"
+    "url": "https://github.com/danilbnd/layout-templete",
+    "email": "danilbnd95@gmail.com"
   },
   "private": true
 }
